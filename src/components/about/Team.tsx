@@ -21,7 +21,7 @@ const teamMembers = [
     name: "Niroja",
     role: "Lead Designer",
     bio: "Niroja brings ThreadVibe designs to life with a perfect blend of current trends and timeless style.",
-    image: "",
+    image: "https://i.postimg.cc/B6pycWN3/Screenshot-2025-06-09-183321.png",
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const teamMembers = [
     name: "Adshaya",
     role: "Market Researcher",
     bio: "Adshaya works on researches and follows the market trends and colors.",
-    image: "",
+    image: "https://i.postimg.cc/N07PBh3X/Screenshot-2025-06-09-183306.png",
   },
 ];
 
